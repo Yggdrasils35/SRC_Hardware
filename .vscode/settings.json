@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "motor.h": "c",
+        "robot.h": "c",
+        "algorithm": "c",
+        "xutility": "c",
+        "typedef.h": "c",
+        "misc.h": "c",
+        "timer.h": "c",
+        "cfg.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
